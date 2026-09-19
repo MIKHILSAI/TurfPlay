@@ -1,0 +1,57 @@
+                  START
+                    │
+                    ▼
+        ┌────────────────────────┐
+        │ booking_agent_runner.py│
+        │       ENTRY POINT      │
+        └───────────┬────────────┘
+                    │
+                    ▼
+        ┌────────────────────────┐
+        │    booking_flow.py     │
+        │    OVERALL FLOW        │
+        └───────────┬────────────┘
+                    │
+                    ▼
+        ┌────────────────────────┐
+        │   booking_process.py   │
+        │   BUSINESS PROCESS     │
+        └───────────┬────────────┘
+                    │
+                    ▼
+        ┌────────────────────────┐
+        │  booking_selection.py  │
+        │   INPUT SELECTION      │
+        └───────────┬────────────┘
+                    │
+                    ▼
+        ┌────────────────────────┐
+        │    booking_task.py     │
+        │     CREWAI TASK        │
+        └───────────┬────────────┘
+                    │
+                    ▼
+        ┌────────────────────────┐
+        │    booking_agent.py    │
+        │     CREWAI AGENT       │
+        └───────────┬────────────┘
+                    │
+                    ▼
+        ┌────────────────────────┐
+        │    booking_crew.py     │
+        │     AGENT + TASK       │
+        └───────────┬────────────┘
+                    │
+                    ▼
+        ┌────────────────────────┐
+        │   booking_summary.py   │
+        │    RESULT SUMMARY      │
+        └───────────┬────────────┘
+                    │
+                    ▼
+        ┌────────────────────────┐
+        │ booking_confirmation.py│
+        │      FINAL RESULT      │
+        └────────────────────────┘
+
+uvicorn backend.api.main:app --host 127.0.0.1 --port 8002

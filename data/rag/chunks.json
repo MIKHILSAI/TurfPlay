@@ -1,0 +1,62 @@
+[
+    {
+        "chunk_id": "cancellation_policy.txt_0",
+        "source": "cancellation_policy.txt",
+        "chunk_index": 0,
+        "text": "Cancellation & Rescheduling Policy\n\n- Bookings can be cancelled free of charge up to 2 hours before the slot start time.\n- Cancellations made within 2 hours of the slot start time are non-refundable.\n- Rescheduling is allowed once per booking, subject to availability, and must also be\n  done at least 2 hours before the original slot start time.\n- No-shows (not cancelling and not showing up) are treated the same as a late cancellation\n  and are non-refundable.\n- Refunds for eligible cancellations"
+    },
+    {
+        "chunk_id": "cancellation_policy.txt_1",
+        "source": "cancellation_policy.txt",
+        "chunk_index": 1,
+        "text": "eated the same as a late cancellation\n  and are non-refundable.\n- Refunds for eligible cancellations are processed within 3-5 business days to the\n  original payment method."
+    },
+    {
+        "chunk_id": "equipment_rental.txt_0",
+        "source": "equipment_rental.txt",
+        "chunk_index": 0,
+        "text": "Equipment Rental\n\n- Badminton rackets: INR 50 per racket per session. Shuttlecocks: INR 20 each.\n- Football: INR 100 per session (deposit of INR 500 required, refunded on return).\n- Tennis rackets: INR 100 per racket per session. Tennis balls: INR 150 per can of 3.\n- Equipment can be reserved in advance when booking a slot, or rented on arrival subject\n  to availability.\n- All rented equipment must be returned at the facility reception immediately after the\n  session. Damaged equipment will be c"
+    },
+    {
+        "chunk_id": "equipment_rental.txt_1",
+        "source": "equipment_rental.txt",
+        "chunk_index": 1,
+        "text": "t be returned at the facility reception immediately after the\n  session. Damaged equipment will be charged at replacement cost."
+    },
+    {
+        "chunk_id": "membership.txt_0",
+        "source": "membership.txt",
+        "chunk_index": 0,
+        "text": "Membership\n\n- Monthly membership: INR 1500, includes 15% discount on all bookings and priority\n  access to peak-hour slots (can book up to 7 days in advance vs. 3 days for non-members).\n- Annual membership: INR 15000 (equivalent to 2 months free vs. monthly), same benefits\n  as monthly membership.\n- Membership can be purchased at the reception or through the booking app.\n- Membership is non-transferable and tied to the registered phone number.\n- Membership does not include equipment rental disco"
+    },
+    {
+        "chunk_id": "membership.txt_1",
+        "source": "membership.txt",
+        "chunk_index": 1,
+        "text": "erable and tied to the registered phone number.\n- Membership does not include equipment rental discounts."
+    },
+    {
+        "chunk_id": "opening_hours_and_rules.txt_0",
+        "source": "opening_hours_and_rules.txt",
+        "chunk_index": 0,
+        "text": "Opening Hours & Facility Rules\n\n- Badminton Courts 1 & 2: open daily, 6:00 AM - 10:00 PM.\n- Football Turf A: open daily, 6:00 AM - 11:00 PM.\n- Tennis Court 1: open daily, 6:00 AM - 9:00 PM.\n- Multipurpose Room: open daily, 8:00 AM - 8:00 PM (for events, workshops, indoor games).\n- The facility is closed on major national holidays; check the notice board or app for\n  holiday closures.\n- Non-marking shoes are mandatory on all indoor and turf surfaces.\n- Outside food is not allowed on the football"
+    },
+    {
+        "chunk_id": "opening_hours_and_rules.txt_1",
+        "source": "opening_hours_and_rules.txt",
+        "chunk_index": 1,
+        "text": "shoes are mandatory on all indoor and turf surfaces.\n- Outside food is not allowed on the football turf or inside the multipurpose room.\n- Each booking slot includes a 10-minute buffer after the hour for changeover; please\n  vacate the court/turf promptly at the end of your slot."
+    },
+    {
+        "chunk_id": "pricing_and_payment.txt_0",
+        "source": "pricing_and_payment.txt",
+        "chunk_index": 0,
+        "text": "Pricing & Payment\n\n- Badminton courts: INR 300 per hour.\n- Tennis court: INR 500 per hour.\n- Football turf: INR 1200 per hour (minimum booking 60 minutes; most bookings are 90 minutes).\n- Multipurpose room: INR 800 per hour (minimum booking 2 hours for events).\n- Payment can be made online at the time of booking, or in cash at the facility\n  reception before the session starts.\n- Peak hours (6 PM - 9 PM on weekdays, and all day on weekends) carry a 10% surcharge\n  on the base hourly rate.\n- Memb"
+    },
+    {
+        "chunk_id": "pricing_and_payment.txt_1",
+        "source": "pricing_and_payment.txt",
+        "chunk_index": 1,
+        "text": "- 9 PM on weekdays, and all day on weekends) carry a 10% surcharge\n  on the base hourly rate.\n- Members with an active membership get a flat 15% discount on all bookings, applied\n  automatically at checkout."
+    }
+]

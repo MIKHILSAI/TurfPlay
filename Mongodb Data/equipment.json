@@ -1,0 +1,74 @@
+[
+  {
+    "_id": "EQ007",
+    "name": "Folding Chair",
+    "type": "multipurpose_room_chair",
+    "rental_rate": 20,
+    "deposit": 0,
+    "available_quantity": 50,
+    "active": true
+  },
+  {
+    "_id": "EQ008",
+    "name": "Folding Table",
+    "type": "multipurpose_room_table",
+    "rental_rate": 50,
+    "deposit": 0,
+    "available_quantity": 20,
+    "active": true
+  },
+  {
+    "_id": "EQ009",
+    "name": "Projector",
+    "type": "multipurpose_room_projector",
+    "rental_rate": 500,
+    "deposit": 1000,
+    "available_quantity": 2,
+    "active": true
+  },
+  {
+    "_id": "EQ010",
+    "name": "Projector Screen",
+    "type": "multipurpose_room_screen",
+    "rental_rate": 200,
+    "deposit": 0,
+    "available_quantity": 2,
+    "active": true
+  },
+  {
+    "_id": "EQ011",
+    "name": "Portable Speaker",
+    "type": "multipurpose_room_speaker",
+    "rental_rate": 300,
+    "deposit": 500,
+    "available_quantity": 4,
+    "active": true
+  },
+  {
+    "_id": "EQ012",
+    "name": "Wireless Microphone",
+    "type": "multipurpose_room_microphone",
+    "rental_rate": 150,
+    "deposit": 300,
+    "available_quantity": 6,
+    "active": true
+  },
+  {
+    "_id": "EQ013",
+    "name": "Whiteboard",
+    "type": "multipurpose_room_whiteboard",
+    "rental_rate": 100,
+    "deposit": 0,
+    "available_quantity": 2,
+    "active": true
+  },
+  {
+    "_id": "EQ014",
+    "name": "Extension Cable",
+    "type": "multipurpose_room_extension_cable",
+    "rental_rate": 50,
+    "deposit": 0,
+    "available_quantity": 10,
+    "active": true
+  }
+]

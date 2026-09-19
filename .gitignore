@@ -1,0 +1,62 @@
+# Environment variables and local secrets
+.env
+.env.*
+!.env.example
+frontend/.env.local
+Groq.txt
+
+# Python virtual environments and caches
+venv/
+.venv/
+env/
+__pycache__/
+*.py[cod]
+*.pyo
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+.coverage.*
+htmlcov/
+.pyre/
+
+# Node.js and Next.js build output
+node_modules/
+frontend/node_modules/
+frontend/.next/
+frontend/out/
+frontend/.vercel/
+*.tsbuildinfo
+
+# Logs and local runtime files
+*.log
+*.pid
+*.seed
+*.pid.lock
+npm-debug.log*
+pnpm-debug.log*
+yarn-debug.log*
+
+# Operating-system files
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Editors and IDEs
+.vscode/*
+!.vscode/extensions.json
+!.vscode/settings.json
+.idea/
+*.swp
+*.swo
+
+# Temporary and generated files
+*.tmp
+*.temp
+*.bak
+*.orig
+.cache/
+tmp/
+temp/
+
+# Keep source data, RAG artifacts, voice models, and test fixtures trackable.
