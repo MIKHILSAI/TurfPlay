@@ -39,7 +39,6 @@ TurfPlay is a full-stack sports-facility booking application. Customers can crea
 - [🔮 Roadmap](#-roadmap)
 - [🐛 Troubleshooting](#-troubleshooting)
 - [🤝 Contributing](#-contributing)
-- [📸 Screenshots](#-screenshots)
 - [📜 License and Author](#-license-and-author)
 
 ## ✨ Features
@@ -906,18 +905,6 @@ python -m uvicorn backend.api.main:app --host 127.0.0.1 --port 8010
 7. Open a pull request describing behavior changes, configuration changes, and test results.
 
 Do not include `.env`, `.env.local`, credentials, real customer data, generated secrets, or production email recipients in a pull request.
-
-## 📸 Screenshots
-
-Screenshots are not currently stored in the repository. Suggested captures for future documentation:
-
-- Login and signup
-- Customer dashboard
-- Facility and time-slot selection
-- Booking details and price breakdown
-- Cancellation/rescheduling preview
-- Membership plans
-- Assistant text and voice interaction
 
 ## 📜 License and Author
 
