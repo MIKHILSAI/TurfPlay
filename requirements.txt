@@ -1,0 +1,28 @@
+## Web API
+fastapi
+uvicorn[standard]
+python-multipart
+pydantic
+
+## Persistence and configuration
+pymongo
+python-dotenv
+bcrypt
+
+## Agent and LLM integrations
+crewai
+groq
+
+## Retrieval-augmented generation
+faiss-cpu
+numpy
+ollama
+
+## Speech and audio
+faster-whisper
+piper-tts
+pydub
+
+## Testing
+pytest
+httpx
